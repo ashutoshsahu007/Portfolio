@@ -24,7 +24,7 @@ import {
   project1,
   project3,
 } from "../assets";
-import tekisky from '../assets/company/tekisky.png';
+import tekisky from "../assets/company/tekisky.png";
 // import project2 from '../assets/project2.png'
 
 export const navLinks = [
@@ -44,8 +44,8 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Full-Stack Developer",
-    icon: web,
+    title: "Ui UX Designer",
+    icon: creator,
   },
   {
     title: "Frontend Developer",
@@ -56,8 +56,8 @@ const services = [
     icon: backend,
   },
   {
-    title: "Ui UX Designer",
-    icon: creator,
+    title: "Full-Stack Developer",
+    icon: web,
   },
 ];
 
