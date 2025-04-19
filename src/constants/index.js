@@ -23,6 +23,9 @@ import {
   project2,
   project1,
   project3,
+  project4,
+  project5,
+  project6,
 } from "../assets";
 import tekisky from "../assets/company/tekisky.png";
 // import project2 from '../assets/project2.png'

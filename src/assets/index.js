@@ -20,10 +20,10 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import mui from "./skills/mui.png"
-import express from "./skills/express.png"
-import mysql from "./skills/mysql.png"
-import aws from "./skills/aws.png"
+import mui from "./skills/mui.png";
+import express from "./skills/express.png";
+import mysql from "./skills/mysql.png";
+import aws from "./skills/aws.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -33,12 +33,14 @@ import Three3js from "./skills/Threejs.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png"; 
+import tripguide from "./tripguide.png";
 import project2 from "./project2.png";
 import project1 from "./project1.png";
 import project3 from "./project3.png";
-import live from './live.png'
-
+import project4 from "./project4.png";
+import project5 from "./project5.png";
+import project6 from "./project6.png";
+import live from "./live.png";
 
 export {
   logo,
@@ -78,4 +80,7 @@ export {
   project2,
   project1,
   project3,
+  project4,
+  project5,
+  project6,
 };
