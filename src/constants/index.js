@@ -26,6 +26,7 @@ import {
   project4,
   project5,
   project6,
+  project7,
 } from "../assets";
 import tekisky from "../assets/company/tekisky.png";
 // import project2 from '../assets/project2.png'
@@ -200,6 +201,31 @@ const projects = [
       },
     ],
     image: project1,
+    source_code_link: "https://patnatic2.vercel.app/",
+  },
+  {
+    name: "GareXpert",
+    description:
+      "Web-based platform that enables users to browse, purchase, and manage auto parts from various suppliers, ensuring a seamless and reliable shopping experience.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "GSAP",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "EmailJS",
+        color: "-text-gradient",
+      },
+    ],
+    image: project7,
     source_code_link: "https://patnatic2.vercel.app/",
   },
   {

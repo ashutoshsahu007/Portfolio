@@ -1,6 +1,7 @@
 import React from "react";
 import { FaLinkedin } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
+import { FaWhatsapp } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -18,6 +19,13 @@ const Footer = () => {
         rel="noopener noreferrer"
       >
         <FaLinkedin size={24} />
+      </a>
+      <a
+        href="https://wa.me/8825111254"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <FaWhatsapp size={24} />
       </a>
     </footer>
   );
