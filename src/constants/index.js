@@ -196,7 +196,82 @@ const projects = [
         color: "-text-gradient",
       },
     ],
+    image: project1,
+    source_code_link: "https://patnatic2.vercel.app/",
+  },
+  {
+    name: "GareXpert",
+    description:
+      "Web-based platform that enables users to browse, purchase, and manage auto parts from various suppliers, ensuring a seamless and reliable shopping experience.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "GSAP",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "EmailJS",
+        color: "-text-gradient",
+      },
+    ],
     image: project2,
+    source_code_link: "https://patnatic2.vercel.app/",
+  },
+  {
+    name: "GareXpert",
+    description:
+      "Web-based platform that enables users to browse, purchase, and manage auto parts from various suppliers, ensuring a seamless and reliable shopping experience.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "GSAP",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "EmailJS",
+        color: "-text-gradient",
+      },
+    ],
+    image: project3,
+    source_code_link: "https://patnatic2.vercel.app/",
+  },
+  {
+    name: "GareXpert",
+    description:
+      "Web-based platform that enables users to browse, purchase, and manage auto parts from various suppliers, ensuring a seamless and reliable shopping experience.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "GSAP",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "EmailJS",
+        color: "-text-gradient",
+      },
+    ],
+    image: project4,
     source_code_link: "https://patnatic2.vercel.app/",
   },
   {
@@ -225,7 +300,7 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: project1,
+    image: project5,
     source_code_link: "https://ecommerce-frontend-view.netlify.app/",
   },
   {
@@ -245,7 +320,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: project3,
+    image: project6,
     source_code_link: "https://www.hfhskidslalganj.com/",
   },
 ];
