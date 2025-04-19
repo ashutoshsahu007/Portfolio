@@ -197,7 +197,7 @@ const projects = [
       },
     ],
     image: project2,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://patnatic2.vercel.app/",
   },
   {
     name: "TekiskyMart",
@@ -226,12 +226,11 @@ const projects = [
       },
     ],
     image: project1,
-    source_code_link: "https://tekiskymart.com/",
+    source_code_link: "https://ecommerce-frontend-view.netlify.app/",
   },
   {
-    name: "Softcadia",
-    description:
-      "A job portal connecting job seekers with employers, offering seamless job search, application tracking, and recruitment solutions.",
+    name: "Holy Kids School",
+    description: "A school Project ",
     tags: [
       {
         name: "react",
@@ -247,7 +246,7 @@ const projects = [
       },
     ],
     image: project3,
-    source_code_link: "https://softcadia.tekisky.com/",
+    source_code_link: "https://www.hfhskidslalganj.com/",
   },
 ];
 
