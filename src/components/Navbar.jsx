@@ -42,9 +42,13 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt="logo" className="w-14 h-16 object-cover" />
+          <img
+            src={logo}
+            alt="logo"
+            className="w-12 h-12 object-cover rounded-full"
+          />
 
-          <p className="text-white text-[18px] font-bold cursor-pointer flex ">
+          <p className="text-white text-[18px] font-bold cursor-pointer flex">
             Ashutosh &nbsp;
             <span className="sm:block hidden"> | Sahu</span>
           </p>
