@@ -27,9 +27,9 @@ import {
   project5,
   project6,
   project7,
-} from "../assets";
-import tekisky from "../assets/company/tekisky.png";
-// import project2 from '../assets/project2.png'
+} from "../../public/assets";
+
+import tekisky from "../../public/assets/company/tekisky.png";
 
 export const navLinks = [
   {
